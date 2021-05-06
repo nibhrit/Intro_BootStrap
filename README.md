@@ -1,5 +1,7 @@
 ### Intro to what BootStrap is all about
 
+Hosted at https://nibhrit.github.io/Intro_BootStrap/
+
 - It is a front end library. Involves what the user actually sees more than the functionality(backend).
 - Reusable. Designing becomes easier. It was developed by Twitter. It makes sites responsive to the viewport. Adaptable layout
 - Pre-styled elements can be dropped into our projects. We won't need things like css button generators etc. No need for so much css code to be written. Classes are available with bootstrap. Like "btn-primary", "btn-dark", "btn-outline-dark", "btn-large". Jumbotron. For designs, go to product, or download the examples.
